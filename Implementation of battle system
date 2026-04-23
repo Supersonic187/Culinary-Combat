@@ -1,0 +1,20 @@
+The battle system uses the free version of hud maker ultra.
+ -Here we link the guages and text to the correct game variables.
+
+Then the actual logic behind how it works.
+1st problem was understanding that skills inside rpg Maker MZ only work on players only and doesnt count towards enemies.(So have to use scripts)
+
+Common event 5: (Enemy DP Tracker)
+
+$gameVariables.setValue(3, $gameVariables.value(3) + 15);
+if ($gameVariables.value(3) >= 100 && !$gameVariables.value(4)) {
+    $gameVariables.setValue(4, 1);
+    BattleManager.processDefeat();
+}
+
+We create the game variable at the 3rd positon and then use itself and add 15 to it for the baking skill 
+We then checking if its >= 100 which is the max guage and dishprogess.(once it reaches 100 or higher the enemy wins, aka dish is complete)
+4,1 stop the defeat from triggering more than once
+and the Defeat Tells RPG maker that the player was defeated
+
+this is all linked to the effects of the bake skill so we dont have to put it into the troops battle manager
