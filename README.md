@@ -1,8 +1,14 @@
 # Culinary-Combat
-Assets, work, updates.
 
-Ill try to add a story board complete with Dialouge and shit as time goes on, it shouldnt be too hard to do
+Is a cooking style RPG game made in rpgmaker mz
 
-This is a link to the assets because the file was too big for github
+Plugins: 
+Custom Main Menu 
+Hud Maker Ultra(Battle Hud)
 
-https://drive.google.com/file/d/14lJGr6YAhrOTOSsoEkg047zYtQ9T6mNO/view?usp=sharing
+Art Assets + sounds:
+Built in RpgMaker project Chracter Generator 
+And Spritemaps found on the forums for free use
+
+Music: 
+Waiting...
