@@ -1,7 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Downstairs","order":3,"parentId":2,"scrollX":973.1999999999999,"scrollY":550.8},
+{"id":1,"expanded":true,"name":"Downstairs","order":3,"parentId":2,"scrollX":973.1999999999999,"scrollY":541.1999999999999},
 {"id":2,"expanded":true,"name":"upstairs","order":2,"parentId":0,"scrollX":982.8,"scrollY":546,"quick":false},
-{"id":3,"expanded":false,"name":"Start Scene","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":550.8,"quick":false},
-{"id":4,"expanded":false,"name":"Boss fight","order":4,"parentId":0,"scrollX":982.8,"scrollY":751.1999999999999,"quick":false}
+{"id":3,"expanded":false,"name":"Start Scene","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":550.8,"quick":false}
 ]
