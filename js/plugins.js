@@ -11,5 +11,6 @@ var $plugins =
 {"name":"Arctic_DialogueBleep","status":true,"description":"Dialogue Blip Sound — Random SE per character while text appears ✨ RPG Maker MZ Compatible","parameters":{"Blip Sounds":"[\"SYS_text\"]","Pitch Variance":"2","Volume":"70"}},
 {"name":"opaque_windowPlugin","status":true,"description":"Makes all windows fully opaque","parameters":{}},
 {"name":"DisableSprint","status":true,"description":"Disables player dashing entirely","parameters":{}},
-{"name":"DisableTouchMenu","status":true,"description":"Adds custom hotkey (M) to open menu","parameters":{}}
+{"name":"DisableTouchMenu","status":true,"description":"Adds custom hotkey (M) to open menu","parameters":{}},
+{"name":"DisableSkipMessage","status":true,"description":"Disables message fast-forwarding/skipping","parameters":{}}
 ];
