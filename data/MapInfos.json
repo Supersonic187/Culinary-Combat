@@ -1,8 +1,9 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Downstairs","order":3,"parentId":2,"scrollX":1216.5,"scrollY":688.5},
-{"id":2,"expanded":true,"name":"upstairs","order":2,"parentId":0,"scrollX":1216.5,"scrollY":688.5,"quick":false},
+{"id":2,"expanded":true,"name":"upstairs","order":2,"parentId":0,"scrollX":832,"scrollY":688,"quick":false},
 {"id":3,"expanded":false,"name":"Start Scene","order":1,"parentId":0,"scrollX":1216.5,"scrollY":676.5,"quick":false},
 {"id":4,"expanded":true,"name":"FairPt1","order":4,"parentId":1,"scrollX":1216.5,"scrollY":706.5},
-{"id":5,"expanded":false,"name":"FairPt2","order":5,"parentId":4,"scrollX":1297.5,"scrollY":688.5}
+{"id":5,"expanded":false,"name":"FairPt2","order":5,"parentId":4,"scrollX":1297.5,"scrollY":688.5},
+{"id":6,"expanded":true,"name":"upstairs-revamp","order":6,"parentId":2,"scrollX":1216.5,"scrollY":676.5,"quick":false}
 ]
